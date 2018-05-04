@@ -18,9 +18,13 @@
     "babel-runtime": "^6.25.0",
     "node-sass": "^4.9.0",
     "quasar-extras": "0.x",
+    "lodash": "^4.17.4",
     "quasar-framework": "^0.14.10",
+    "toastr": "^2.1.2",
+    "vee-validate": "^2.0.0",
     "vue": "^2.5.*",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vuex": "^2.2.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.2.5",
@@ -95,6 +99,8 @@
     "webpack": "^3.10.0",
     "webpack-bundle-analyzer": "^2.9.2",
     "webpack-dev-server": "^2.11.2",
+    "webpack-dev-middleware": "^1.10.0",
+    "webpack-hot-middleware": "^2.16.1",
     "webpack-merge": "^4.1.0"
   },
   "engines": {
