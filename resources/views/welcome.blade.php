@@ -11,6 +11,14 @@
   <title>{{ config('app.name', 'Laravel') }}</title>
 
   <!-- Fonts -->
+
+
+    <link rel="stylesheet" href="static/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <link rel="stylesheet" href="css/app.css">
+
   <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet"
         type="text/css">
 
@@ -20,10 +28,10 @@
 
 </head>
 <body>
-welcome
-<div id="app">
-
-</div>
+    <div class="bg">
+      <div id="app"></div>
+    </div>
+    <!-- built files will be auto injected -->
 
 <script src="{{ asset('js/main.js') }}"></script>
 </body>
