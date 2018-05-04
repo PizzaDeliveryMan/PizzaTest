@@ -32,7 +32,9 @@ return [
     | application. If disabled, a simple generic error page is shown.
     |
     */
+
   'debug' => env('APP_DEBUG', false),
+
     /*
     |--------------------------------------------------------------------------
     | Application URL
@@ -44,6 +46,8 @@ return [
     |
     */
   'url' => env('APP_URL', 'http://localhost'),
+    'api_url' => env('APP_API_URL', 'http://pizzaman.local/api/v1'),
+
     /*
     |--------------------------------------------------------------------------
     | Application Timezone
@@ -143,6 +147,9 @@ return [
        * Package Service Providers...
        */
     Laravel\Tinker\TinkerServiceProvider::class,
+        Tymon\JWTAuth\Providers\JWTAuthServiceProvider::class,
+        Dingo\Api\Provider\LaravelServiceProvider::class,
+
       /*
        * Application Service Providers...
        */
@@ -196,5 +203,7 @@ return [
     'URL' => Illuminate\Support\Facades\URL::class,
     'Validator' => Illuminate\Support\Facades\Validator::class,
     'View' => Illuminate\Support\Facades\View::class,
+        'JWTAuth' => Tymon\JWTAuth\Facades\JWTAuth::class
+
   ],
 ];

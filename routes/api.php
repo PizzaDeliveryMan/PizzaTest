@@ -12,6 +12,19 @@ use Illuminate\Http\Request;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
-Route::middleware('auth:api')->get('/user', function (Request $request) {
-    return $request->user();
+
+$api = app('Dingo\Api\Routing\Router');
+
+// JWT API
+$api->version('v1', function ($api) {
+    $api->group(['namespace' => 'App\Api\Controllers'], function ($api) {
+        $api->post('authenticate', 'AuthenticateController@authenticate');
+        $api->post('register', 'AuthenticateController@register');
+        $api->post('refresh-token', 'AuthenticateController@refreshToken');
+
+        $api->group( [ 'middleware' => ['jwt.auth'] ], function ($api) {
+            $api->get('jokes', 'JokesController@index');
+            $api->get('authenticate/user', 'AuthenticateController@getAuthenticatedUser');
+        });
+    });
 });
