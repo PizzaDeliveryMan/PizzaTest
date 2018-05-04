@@ -1,7 +1,9 @@
-import Vue from 'vue';
-import VueRouter from 'vue-router';
+import Vue from 'vue'
+import VueRouter from 'vue-router'
+import Home from './pages/Home'
+import MijnBedrijf from './pages/MijnBedrijf'
 
-Vue.use(VueRouter);
+Vue.use(VueRouter)
 
 export default new VueRouter(
     {
@@ -16,18 +18,20 @@ export default new VueRouter(
          * If switching back to default "hash" mode, don't forget to set the
          * build publicPath back to '' so Cordova builds work again.
          */
-        mode: '',
+        mode: 'history',
         routes: [
             {
-                path: '/example'
-//                component: require('SomeComponent')
+                path: '/',
+                name: 'Home',
+                component: Home
             },
+
             {
-                path: '*'
-//                component: require('Error404')
-            } // Not found
+                path: '/mijnbedrijf',
+                name: 'Mijn Bedrijf',
+                component: MijnBedrijf
+            }
         ]
     }
 );
-
 
