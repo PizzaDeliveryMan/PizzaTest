@@ -1,13 +1,17 @@
 <template>
-<div id="B105AKtTG">
-  <div class="rJAvY5FpG">
-    <span class="Hk3uKctaz">Mijn Grafieken</span>
+<div id="mijngrafiekenpage">
+
+  <span class="mijngrafiekentext">Mijn Grafieken</span>
+
+
+  <div class="mijngrafiekencard">
+
   
-    <img class="HJy9KqtaG" src="/static/vuegg-fam.svg"></img>
+    <img class="graph1" src="/static/graph1.png"></img>
   
-    <img class="B1Zct5tTf" src="/static/vuegg-fam.svg"></img>
+    <img class="graph2" src="/static/barchart.png"></img>
   
-    <img class="HyXctcKpG" src="/static/vuegg-fam.svg"></img>
+    <img class="graph3" src="/static/circlediagram.png"></img>
   </div>
 </div>
 </template>
@@ -20,8 +24,8 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-#B105AKtTG {
-  --mdc-theme-primary: #673ab7;
+#mijngrafiekenpage {
+  --mdc-theme-primary: #09233e;
   --mdc-theme-secondary: #f44336;
   --mdc-theme-background: #ffffff;
   position: relative;
@@ -32,25 +36,25 @@ export default {
   height: 100%;
 }
 
-.Hk3uKctaz {
+.mijngrafiekentext {
   overflow: hidden;
   text-overflow: ellipsis;
-  position: absolute;
+  position: relative;
   width: 150px;
   height: 30px;
   top: 15px;
   left: 64px;
 }
 
-.rJAvY5FpG {
+.mijngrafiekencard {
   overflow: hidden;
   border-color: rgba(0, 0, 0, 0.15);
   border-style: solid;
   border-width: 1px;
-  position: absolute;
+  position: relative;
   width: 325px;
-  height: 600px;
-  top: 0px;
+  height: 500px;
+  top: 25px;
   left: 0px;
 }
 

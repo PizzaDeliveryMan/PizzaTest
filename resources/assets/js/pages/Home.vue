@@ -31,7 +31,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 #Bkg_sf54Tf {
-  --mdc-theme-primary: #673ab7;
+  --mdc-theme-primary: #09233e;
   --mdc-theme-secondary: #f44336;
   --mdc-theme-background: #ffffff;
   position: relative;

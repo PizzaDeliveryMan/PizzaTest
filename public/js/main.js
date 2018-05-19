@@ -39596,7 +39596,7 @@ if (false) {
 __WEBPACK_IMPORTED_MODULE_0_vue___default.a.use(__WEBPACK_IMPORTED_MODULE_1_vue_router__["a" /* default */]);
 
 /* harmony default export */ __webpack_exports__["a"] = (new __WEBPACK_IMPORTED_MODULE_1_vue_router__["a" /* default */]({
-  routes: [{ path: '/', name: 'Home', component: __WEBPACK_IMPORTED_MODULE_2__pages_Home___default.a }, { path: '/mijnbedrijf', name: 'Mijn Bedrijf', component: __WEBPACK_IMPORTED_MODULE_3__pages_MijnBedrijf___default.a }, { path: '/mijngegevens', name: 'Mijn Gegevens', component: __WEBPACK_IMPORTED_MODULE_4__pages_MijnGegevens___default.a }, { path: '/mijnprofiel', name: 'Mijn Profiel', component: __WEBPACK_IMPORTED_MODULE_5__pages_MijnProfiel___default.a }, { path: '/personaliseren', name: 'Personaliseren', component: __WEBPACK_IMPORTED_MODULE_6__pages_Personaliseren___default.a }, { path: '/mijnstraten', name: 'Mijn Straten', component: __WEBPACK_IMPORTED_MODULE_7__pages_MijnStraten___default.a }, { path: '/straatbekijken', name: 'Straat bekijken', component: __WEBPACK_IMPORTED_MODULE_8__pages_StraatBekijken___default.a }, { path: '/klantbekijken', name: 'Klant bekijken', component: __WEBPACK_IMPORTED_MODULE_9__pages_KlantBekijken___default.a }, { path: '/mijnroute', name: 'Mijn Route', component: __WEBPACK_IMPORTED_MODULE_10__pages_MijnRoute___default.a }, { path: '/helpfaq', name: 'Help Pagina', component: __WEBPACK_IMPORTED_MODULE_11__pages_HelpPagina___default.a }, { path: '/faqantwoord', name: 'Faq antwoord', component: __WEBPACK_IMPORTED_MODULE_12__pages_FaqAntwoord___default.a }, { path: '/mijngrafieken', name: 'Mijn Grafieken', component: __WEBPACK_IMPORTED_MODULE_13__pages_MijnGrafieken___default.a }, { path: '/mijncijfers', name: 'Mijn Cijfers', component: __WEBPACK_IMPORTED_MODULE_14__pages_MijnCijfers___default.a }, { path: '/webshop', name: 'Webshop', component: __WEBPACK_IMPORTED_MODULE_15__pages_Webshop___default.a }, { path: '/webshopitem', name: 'Webshop Item', component: __WEBPACK_IMPORTED_MODULE_16__pages_WebshopItem___default.a }]
+    routes: [{ path: '/', name: 'Home', component: __WEBPACK_IMPORTED_MODULE_2__pages_Home___default.a }, { path: '/mijnbedrijf', name: 'Mijn Bedrijf', component: __WEBPACK_IMPORTED_MODULE_3__pages_MijnBedrijf___default.a }, { path: '/mijngegevens', name: 'Mijn Gegevens', component: __WEBPACK_IMPORTED_MODULE_4__pages_MijnGegevens___default.a }, { path: '/mijnprofiel', name: 'Mijn Profiel', component: __WEBPACK_IMPORTED_MODULE_5__pages_MijnProfiel___default.a }, { path: '/personaliseren', name: 'Personaliseren', component: __WEBPACK_IMPORTED_MODULE_6__pages_Personaliseren___default.a }, { path: '/mijnstraten', name: 'Mijn Straten', component: __WEBPACK_IMPORTED_MODULE_7__pages_MijnStraten___default.a }, { path: '/straatbekijken', name: 'Straat bekijken', component: __WEBPACK_IMPORTED_MODULE_8__pages_StraatBekijken___default.a }, { path: '/klantbekijken', name: 'Klant bekijken', component: __WEBPACK_IMPORTED_MODULE_9__pages_KlantBekijken___default.a }, { path: '/mijnroute', name: 'Mijn Route', component: __WEBPACK_IMPORTED_MODULE_10__pages_MijnRoute___default.a }, { path: '/helpfaq', name: 'Help Pagina', component: __WEBPACK_IMPORTED_MODULE_11__pages_HelpPagina___default.a }, { path: '/faqantwoord', name: 'Faq antwoord', component: __WEBPACK_IMPORTED_MODULE_12__pages_FaqAntwoord___default.a }, { path: '/mijngrafieken', name: 'Mijn Grafieken', component: __WEBPACK_IMPORTED_MODULE_13__pages_MijnGrafieken___default.a }, { path: '/mijncijfers', name: 'Mijn Cijfers', component: __WEBPACK_IMPORTED_MODULE_14__pages_MijnCijfers___default.a }, { path: '/webshop', name: 'Webshop', component: __WEBPACK_IMPORTED_MODULE_15__pages_Webshop___default.a }, { path: '/webshopitem', name: 'Webshop Item', component: __WEBPACK_IMPORTED_MODULE_16__pages_WebshopItem___default.a }]
 }));
 
 /***/ }),
@@ -50503,7 +50503,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#Bkg_sf54Tf[data-v-2c6d0f54] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.By-ssKKpz[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 64px;\n  left: 33px;\n}\n.SkQosFYTM[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 109px;\n  left: 34px;\n}\n.BJ43stFpM[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 156px;\n  left: 33px;\n}\n.r10nsKK6M[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 205px;\n  left: 33px;\n}\n.BykRoFtTf[data-v-2c6d0f54] {\n  font-family: 'Material Icons';\n  font-size: 32;\n  text-align: center;\n  position: absolute;\n  width: 36px;\n  height: 101px;\n  top: 424px;\n  left: 240px;\n}\n.S1oZnYK6M[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 406px;\n  left: 31px;\n}\n.S1xG2FKpz[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 465px;\n  left: 31px;\n}\n.HyAH2FFpM[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 254px;\n  left: 34px;\n}\n.S1IUhFFTz[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 302px;\n  left: 34px;\n}\n.rJ2OjtYaf[data-v-2c6d0f54] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#Bkg_sf54Tf[data-v-2c6d0f54] {\n  --mdc-theme-primary: #09233e;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.By-ssKKpz[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 64px;\n  left: 33px;\n}\n.SkQosFYTM[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 109px;\n  left: 34px;\n}\n.BJ43stFpM[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 156px;\n  left: 33px;\n}\n.r10nsKK6M[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 205px;\n  left: 33px;\n}\n.BykRoFtTf[data-v-2c6d0f54] {\n  font-family: 'Material Icons';\n  font-size: 32;\n  text-align: center;\n  position: absolute;\n  width: 36px;\n  height: 101px;\n  top: 424px;\n  left: 240px;\n}\n.S1oZnYK6M[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 406px;\n  left: 31px;\n}\n.S1xG2FKpz[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 465px;\n  left: 31px;\n}\n.HyAH2FFpM[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 254px;\n  left: 34px;\n}\n.S1IUhFFTz[data-v-2c6d0f54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 302px;\n  left: 34px;\n}\n.rJ2OjtYaf[data-v-2c6d0f54] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -50680,7 +50680,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#B1lRU6tFTz[data-v-4f13c5e6] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.rko4k9tTM[data-v-4f13c5e6] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 14px;\n  left: 87px;\n}\n.ByLwe9YTz[data-v-4f13c5e6] {\n  font-family: 'Material Icons';\n  font-size: 32;\n  text-align: center;\n  position: absolute;\n  width: 101px;\n  height: 141px;\n  top: 441px;\n  left: 188px;\n}\n.HyTz1cYaf[data-v-4f13c5e6] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#mijnroutepage[data-v-4f13c5e6]\n{\n    --mdc-theme-primary: #09233e;\n    --mdc-theme-secondary: #f44336;\n    --mdc-theme-background: #ffffff;\n    position: relative;\n    margin: auto;\n    background-color: #ffffff;\n    overflow: hidden;\n    width: 100%;\n    height: 100%;\n}\n.titlemijnbedrijf[data-v-4f13c5e6]\n{\n    overflow: hidden;\n    text-overflow: ellipsis;\n    position: relative;\n    width: 150px;\n    height: 25px;\n    top: 14px;\n    left: 87px;\n}\n.ByLwe9YTz[data-v-4f13c5e6]\n{\n    font-family: 'Material Icons';\n    font-size: 32;\n    text-align: center;\n    position: relative;\n    width: 101px;\n    height: 141px;\n    top: 441px;\n    left: 188px;\n}\n.mijnbedrijfcard[data-v-4f13c5e6]\n{\n    overflow: hidden;\n    border-color: rgba(0, 0, 0, 0.15);\n    border-style: solid;\n    border-width: 1px;\n    position: relative;\n    width: 325px;\n    height: 600px;\n    top: 0px;\n    left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -50715,7 +50715,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-  name: 'mijn-bedrijf'
+    name: 'mijn-bedrijf'
 });
 
 /***/ }),
@@ -50726,36 +50726,52 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { attrs: { id: "B1lRU6tFTz" } }, [
+  return _c("div", { attrs: { id: "mijnroutepage" } }, [
     _c(
       "div",
-      { staticClass: "HyTz1cYaf" },
+      { staticClass: "mijnbedrijfcard" },
       [
-        _c("span", { staticClass: "rko4k9tTM" }, [_vm._v("Mijn Bedrijf")]),
-        _vm._v(" "),
-        _c("mdc-button", { staticClass: "ByEIkqtaf", attrs: { raised: "" } }, [
-          _vm._v("Mijn Gegevens")
+        _c("span", { staticClass: "titlemijnbedrijf" }, [
+          _vm._v("Mijn Bedrijf")
         ]),
         _vm._v(" "),
-        _c("mdc-button", { staticClass: "BJ1iJcYaz", attrs: { raised: "" } }, [
-          _vm._v("Mijn Profiel")
-        ]),
+        _c("div", { staticClass: "spacer" }),
         _vm._v(" "),
-        _c("mdc-button", { staticClass: "BkGoJ9YTM", attrs: { raised: "" } }, [
-          _vm._v("Mijn Route")
-        ]),
+        _c(
+          "mdc-button",
+          { staticClass: "btnmijngegevens", attrs: { raised: "" } },
+          [_vm._v("Mijn Gegevens")]
+        ),
         _vm._v(" "),
-        _c("mdc-button", { staticClass: "HJNo1cYTG", attrs: { raised: "" } }, [
-          _vm._v("Mijn Grafieken")
-        ]),
+        _c(
+          "mdc-button",
+          { staticClass: "btnmijnprofiel", attrs: { raised: "" } },
+          [_vm._v("Mijn Profiel")]
+        ),
         _vm._v(" "),
-        _c("mdc-button", { staticClass: "Bywoy5Ypz", attrs: { raised: "" } }, [
-          _vm._v("Personaliseren")
-        ]),
+        _c(
+          "mdc-button",
+          { staticClass: "btnmijnroute", attrs: { raised: "" } },
+          [_vm._v("Mijn Route")]
+        ),
         _vm._v(" "),
-        _c("mdc-button", { staticClass: "H17ygcYpM", attrs: { raised: "" } }, [
-          _vm._v("Ranglijst")
-        ]),
+        _c(
+          "mdc-button",
+          { staticClass: "btnmijngrafieken", attrs: { raised: "" } },
+          [_vm._v("Mijn Grafieken")]
+        ),
+        _vm._v(" "),
+        _c(
+          "mdc-button",
+          { staticClass: "btnpersonaliseren", attrs: { raised: "" } },
+          [_vm._v("Personaliseren")]
+        ),
+        _vm._v(" "),
+        _c(
+          "mdc-button",
+          { staticClass: "btnranglijst", attrs: { raised: "" } },
+          [_vm._v("Ranglijst")]
+        ),
         _vm._v(" "),
         _c("i", { staticClass: "ByLwe9YTz material-icons" }, [
           _vm._v("insert_emoticon")
@@ -50861,7 +50877,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#rklSnTKtTG[data-v-016af4e7] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.HJ8B26YYpz[data-v-016af4e7] {\n  font-family: 'Material Icons';\n  font-size: 32;\n  text-align: center;\n  position: absolute;\n  width: 106px;\n  height: 166px;\n  top: 424px;\n  left: 207px;\n}\n.Sk_v-9tTM[data-v-016af4e7] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  border-width: 7px;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 13px;\n  left: 85px;\n}\n.Bk-rnatKTz[data-v-016af4e7] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#mijngegevenspage[data-v-016af4e7]\n{\n    --mdc-theme-primary: #09233e;\n    --mdc-theme-secondary: #f44336;\n    --mdc-theme-background: #ffffff;\n    position: relative;\n    margin: auto;\n    background-color: #ffffff;\n    overflow: hidden;\n    width: 100%;\n    height: 100%;\n}\n.HJ8B26YYpz[data-v-016af4e7]\n{\n    font-family: 'Material Icons';\n    font-size: 32;\n    text-align: center;\n    position: absolute;\n    width: 106px;\n    height: 166px;\n    top: 424px;\n    left: 207px;\n}\n.mijngegevenstext[data-v-016af4e7]\n{\n    overflow: hidden;\n    text-overflow: ellipsis;\n    border-width: 7px;\n    position: relative;\n    width: 150px;\n    height: 25px;\n    top: 13px;\n    left: 85px;\n}\n.mijngegevenscard[data-v-016af4e7]\n{\n    overflow: hidden;\n    border-color: rgba(0, 0, 0, 0.15);\n    border-style: solid;\n    border-width: 1px;\n    position: relative;\n    width: 325px;\n    height: 600px;\n    top: 35px;\n    left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -50900,9 +50916,20 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-  name: 'mijn-gegevens'
+    name: 'mijn-gegevens'
 });
 
 /***/ }),
@@ -50913,62 +50940,18 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { attrs: { id: "rklSnTKtTG" } }, [
+  return _c("div", { attrs: { id: "mijngegevenspage" } }, [
+    _c("span", { staticClass: "mijngegevenstext" }, [_vm._v("Mijn gegevens")]),
+    _vm._v(" "),
     _c(
       "div",
       {
-        staticClass: "Bk-rnatKTz",
+        staticClass: "mijngegevenscard",
         attrs: { label: "Naam", value: "Naam", rows: "100", type: "text" }
       },
       [
-        _c("i", { staticClass: "HJ8B26YYpz material-icons" }, [
-          _vm._v("insert_emoticon")
-        ]),
-        _vm._v(" "),
         _c("mdc-textfield", {
-          staticClass: "r1XrZ5FTM",
-          attrs: { label: "Iban", value: "Iban", rows: "100", type: "text" }
-        }),
-        _vm._v(" "),
-        _c("mdc-textfield", {
-          staticClass: "BJIBbqKaz",
-          attrs: {
-            label: "Geboortedatum",
-            value: "Geboortedatum",
-            rows: "100",
-            type: "text"
-          }
-        }),
-        _vm._v(" "),
-        _c("mdc-textfield", {
-          staticClass: "ryH8bcKaf",
-          attrs: { label: "Adres", value: "Adres", rows: "100", type: "text" }
-        }),
-        _vm._v(" "),
-        _c("mdc-textfield", {
-          staticClass: "rkwLW9taz",
-          attrs: {
-            label: "Postcode",
-            value: "Postcode",
-            rows: "100",
-            type: "text"
-          }
-        }),
-        _vm._v(" "),
-        _c("mdc-textfield", {
-          staticClass: "rJ_UZ5t6z",
-          attrs: {
-            label: "Woonplaats",
-            value: "Woonplaats",
-            rows: "100",
-            type: "text"
-          }
-        }),
-        _vm._v(" "),
-        _c("span", { staticClass: "Sk_v-9tTM" }, [_vm._v("Mijn gegevens")]),
-        _vm._v(" "),
-        _c("mdc-textfield", {
-          staticClass: "B1B2b5Y6z",
+          staticClass: "inputvoornaam",
           attrs: {
             label: "Voornaam",
             value: "Voornaam",
@@ -50978,7 +50961,7 @@ var render = function() {
         }),
         _vm._v(" "),
         _c("mdc-textfield", {
-          staticClass: "SkIPG5KTG",
+          staticClass: "inputtsnvgsl",
           attrs: {
             label: "Tussenv",
             value: "Tussenv",
@@ -50988,7 +50971,7 @@ var render = function() {
         }),
         _vm._v(" "),
         _c("mdc-textfield", {
-          staticClass: "r1KwzcKaM",
+          staticClass: "inputachternm",
           attrs: {
             label: "Achternaam",
             value: "Achternaam",
@@ -50997,7 +50980,47 @@ var render = function() {
           }
         }),
         _vm._v(" "),
-        _c("mdc-button", { staticClass: "S1u3MqY6M", attrs: { raised: "" } }, [
+        _c("mdc-textfield", {
+          staticClass: "inputgeboortedatum",
+          attrs: {
+            label: "Geboortedatum",
+            value: "Geboortedatum",
+            rows: "100",
+            type: "text"
+          }
+        }),
+        _vm._v(" "),
+        _c("mdc-textfield", {
+          staticClass: "inputadres",
+          attrs: { label: "Adres", value: "Adres", rows: "100", type: "text" }
+        }),
+        _vm._v(" "),
+        _c("mdc-textfield", {
+          staticClass: "inputpostcode",
+          attrs: {
+            label: "Postcode",
+            value: "Postcode",
+            rows: "100",
+            type: "text"
+          }
+        }),
+        _vm._v(" "),
+        _c("mdc-textfield", {
+          staticClass: "inputplaats",
+          attrs: {
+            label: "Woonplaats",
+            value: "Woonplaats",
+            rows: "100",
+            type: "text"
+          }
+        }),
+        _vm._v(" "),
+        _c("mdc-textfield", {
+          staticClass: "inputiban",
+          attrs: { label: "Iban", value: "Iban", rows: "100", type: "text" }
+        }),
+        _vm._v(" "),
+        _c("mdc-button", { staticClass: "btnsave", attrs: { raised: "" } }, [
           _vm._v("Opslaan")
         ])
       ],
@@ -51101,7 +51124,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#HyeK6atFTM[data-v-463cc2a0] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.HJ8KT6FYpM[data-v-463cc2a0] {\n  font-family: 'Material Icons';\n  font-size: 32;\n  text-align: center;\n  position: absolute;\n  width: 119px;\n  height: 160px;\n  top: 431px;\n  left: 199px;\n}\n.BkM4XctTf[data-v-463cc2a0] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 8px;\n  left: 30px;\n}\n.H12r79tpG[data-v-463cc2a0] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  font-size: 11px;\n  position: absolute;\n  width: 263px;\n  height: 25px;\n  top: 34px;\n  left: 25px;\n}\n.HyWtaaKYTz[data-v-463cc2a0] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#HyeK6atFTM[data-v-463cc2a0]\n{\n    --mdc-theme-primary: #09233e;\n    --mdc-theme-secondary: #f44336;\n    --mdc-theme-background: #ffffff;\n    position: relative;\n    margin: auto;\n    background-color: #ffffff;\n    overflow: hidden;\n    width: 100%;\n    height: 100%;\n}\n.profielimage[data-v-463cc2a0]\n{\n    font-family: 'Material Icons';\n    font-size: 32;\n    text-align: center;\n    position: relative;\n    width: 119px;\n    height: 160px;\n    top: 431px;\n    left: 199px;\n}\n.BkM4XctTf[data-v-463cc2a0]\n{\n    overflow: hidden;\n    text-overflow: ellipsis;\n    position: relative;\n    width: 150px;\n    height: 25px;\n    top: 8px;\n    left: 30px;\n}\n.mijnprofielsubtext[data-v-463cc2a0]\n{\n    overflow: hidden;\n    text-overflow: ellipsis;\n    font-size: 11px;\n    position: relative;\n    width: 263px;\n    height: 25px;\n    top: 34px;\n    left: 25px;\n}\n.mijnprofielcard[data-v-463cc2a0]\n{\n    overflow: hidden;\n    border-color: rgba(0, 0, 0, 0.15);\n    border-style: solid;\n    border-width: 1px;\n    position: relative;\n    width: 325px;\n    height: 500px;\n    top: 35px;\n    left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -51134,9 +51157,19 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-  name: 'mijn-profiel'
+    name: 'mijn-profiel'
 });
 
 /***/ }),
@@ -51148,27 +51181,27 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", { attrs: { id: "HyeK6atFTM" } }, [
+    _c("span", { staticClass: "BkM4XctTf" }, [_vm._v("Mijn profiel")]),
+    _vm._v(" "),
     _c(
       "div",
-      { staticClass: "HyWtaaKYTz" },
+      { staticClass: "mijnprofielcard" },
       [
-        _c("i", { staticClass: "HJ8KT6FYpM material-icons" }, [
+        _c("i", { staticClass: "profielimage material-icons" }, [
           _vm._v("insert_emoticon")
         ]),
         _vm._v(" "),
-        _c("span", { staticClass: "BkM4XctTf" }, [_vm._v("Mijn profiel")]),
-        _vm._v(" "),
-        _c("span", { staticClass: "H12r79tpG" }, [
+        _c("span", { staticClass: "mijnprofielsubtext" }, [
           _vm._v("Maak je profiel coompleet en ontvang 5 credits")
         ]),
         _vm._v(" "),
         _c("mdc-radio", {
-          staticClass: "HyLqXqYpz",
+          staticClass: "mijnprofielvraag2",
           attrs: { label: "Vraag 2", name: "default-mdc-group" }
         }),
         _vm._v(" "),
         _c("mdc-textfield", {
-          staticClass: "r1Dsm5Kpz",
+          staticClass: "mijnprofieluitlegvraag",
           attrs: {
             label: "Uitlegvraag",
             value: "Textfield",
@@ -51176,10 +51209,6 @@ var render = function() {
             type: "text"
           }
         }),
-        _vm._v(" "),
-        _c("mdc-button", { staticClass: "ryK2XqKTG", attrs: { raised: "" } }, [
-          _vm._v("Opslaan")
-        ]),
         _vm._v(" "),
         _c("mdc-switch", {
           staticClass: "SJOkEcYpM",
@@ -51189,7 +51218,11 @@ var render = function() {
         _c("mdc-switch", {
           staticClass: "ry8g45Faz",
           attrs: { label: "Vraag 1", checked: "" }
-        })
+        }),
+        _vm._v(" "),
+        _c("mdc-button", { staticClass: "btnopslaan", attrs: { raised: "" } }, [
+          _vm._v("Opslaan")
+        ])
       ],
       1
     )
@@ -51291,7 +51324,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#ryexxRKKpf[data-v-1b84be92] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.SJmegCtKaz[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 256px;\n  left: 71px;\n}\n.H14lgCKF6z[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 303px;\n  left: 71px;\n}\n.B1Beg0tKaM[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 352px;\n  left: 71px;\n}\n.rJLegAYKpz[data-v-1b84be92] {\n  font-family: 'Material Icons';\n  font-size: 32;\n  text-align: center;\n  position: absolute;\n  width: 73px;\n  height: 68px;\n  top: 100px;\n  left: 17px;\n}\n.HytgeCYF6G[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 401px;\n  left: 71px;\n}\n.rJ8KE5Fpf[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 119px;\n  left: 107px;\n}\n.H1GxrctTG[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 19px;\n  left: 8px;\n}\n.rJbxeAYtTf[data-v-1b84be92] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#ryexxRKKpf[data-v-1b84be92] {\n  --mdc-theme-primary: #09233e;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.SJmegCtKaz[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 256px;\n  left: 71px;\n}\n.H14lgCKF6z[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 303px;\n  left: 71px;\n}\n.B1Beg0tKaM[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 352px;\n  left: 71px;\n}\n.rJLegAYKpz[data-v-1b84be92] {\n  font-family: 'Material Icons';\n  font-size: 32;\n  text-align: center;\n  position: absolute;\n  width: 73px;\n  height: 68px;\n  top: 100px;\n  left: 17px;\n}\n.HytgeCYF6G[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 401px;\n  left: 71px;\n}\n.rJ8KE5Fpf[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 200px;\n  height: 40px;\n  top: 119px;\n  left: 107px;\n}\n.H1GxrctTG[data-v-1b84be92] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 19px;\n  left: 8px;\n}\n.rJbxeAYtTf[data-v-1b84be92] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -51460,7 +51493,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#S1lmW0FFpf[data-v-7f8ac0a6] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.Sy7KfS5taM[data-v-7f8ac0a6] {\n  font-family: 'Material Icons';\n  font-size: 32;\n  text-align: center;\n  position: absolute;\n  width: 127px;\n  height: 155px;\n  top: 429px;\n  left: 182px;\n}\n.HJlrS9Kaf[data-v-7f8ac0a6] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 24px;\n  top: 29px;\n  left: 26px;\n}\n.SyddHqYpG[data-v-7f8ac0a6] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 26px;\n  top: 522px;\n  left: 92px;\n}\n.SJSwoB9taG[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.HkIviScYTz[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.BkDwiH5FaM[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.SyVwiB5Y6z[data-v-7f8ac0a6] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.BkTviH9KTM[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.Sy0wiH5F6z[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.ryJgPsrqFaz[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.H13woB9F6M[data-v-7f8ac0a6] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.rJDjB9YTM[data-v-7f8ac0a6] {\n  background-color: #ffffff;\n  border-collapse: collapse;\n  border: 1px solid #dddddd;\n  text-align: left;\n  position: absolute;\n  width: 291px;\n  height: 85px;\n  top: 197px;\n  left: 17px;\n}\n.HkGYzH9t6M[data-v-7f8ac0a6] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#S1lmW0FFpf[data-v-7f8ac0a6] {\n  --mdc-theme-primary: #09233e;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.Sy7KfS5taM[data-v-7f8ac0a6] {\n  font-family: 'Material Icons';\n  font-size: 32;\n  text-align: center;\n  position: absolute;\n  width: 127px;\n  height: 155px;\n  top: 429px;\n  left: 182px;\n}\n.HJlrS9Kaf[data-v-7f8ac0a6] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 24px;\n  top: 29px;\n  left: 26px;\n}\n.SyddHqYpG[data-v-7f8ac0a6] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 26px;\n  top: 522px;\n  left: 92px;\n}\n.SJSwoB9taG[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.HkIviScYTz[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.BkDwiH5FaM[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.SyVwiB5Y6z[data-v-7f8ac0a6] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.BkTviH9KTM[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.Sy0wiH5F6z[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.ryJgPsrqFaz[data-v-7f8ac0a6] {\n  padding: 0 8px;\n}\n.H13woB9F6M[data-v-7f8ac0a6] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.rJDjB9YTM[data-v-7f8ac0a6] {\n  background-color: #ffffff;\n  border-collapse: collapse;\n  border: 1px solid #dddddd;\n  text-align: left;\n  position: absolute;\n  width: 291px;\n  height: 85px;\n  top: 197px;\n  left: 17px;\n}\n.HkGYzH9t6M[data-v-7f8ac0a6] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -51694,7 +51727,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#H1gaGCFtaM[data-v-d0b05636] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.BJKWIqKpG[data-v-d0b05636] {\n  background-color: #fff;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n.rJCQU5F6M[data-v-d0b05636] {\n  font-family: 'Material Icons';\n  font-size: 32;\n  text-align: center;\n  position: absolute;\n  width: 36px;\n  height: 101px;\n  top: 478px;\n  left: 267px;\n}\n.r1rJU89K6M[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.B1LJ8Lctaf[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.ByvJII9Fpz[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.r14kL8cKTf[data-v-d0b05636] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.HJ6J8IqKpz[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.HJ0y889KTM[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.BkJx1LIcKpz[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.rknkI8cKTf[data-v-d0b05636] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.Sy18Lqt6f[data-v-d0b05636] {\n  background-color: #ffffff;\n  border-collapse: collapse;\n  border: 1px solid #dddddd;\n  text-align: left;\n  position: absolute;\n  width: 318px;\n  height: 85px;\n  top: 320px;\n  left: 2px;\n}\n.HkZaMAtKTG[data-v-d0b05636] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#H1gaGCFtaM[data-v-d0b05636] {\n  --mdc-theme-primary: #09233e;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.BJKWIqKpG[data-v-d0b05636] {\n  background-color: #fff;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n.rJCQU5F6M[data-v-d0b05636] {\n  font-family: 'Material Icons';\n  font-size: 32;\n  text-align: center;\n  position: absolute;\n  width: 36px;\n  height: 101px;\n  top: 478px;\n  left: 267px;\n}\n.r1rJU89K6M[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.B1LJ8Lctaf[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.ByvJII9Fpz[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.r14kL8cKTf[data-v-d0b05636] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.HJ6J8IqKpz[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.HJ0y889KTM[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.BkJx1LIcKpz[data-v-d0b05636] {\n  padding: 0 8px;\n}\n.rknkI8cKTf[data-v-d0b05636] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.Sy18Lqt6f[data-v-d0b05636] {\n  background-color: #ffffff;\n  border-collapse: collapse;\n  border: 1px solid #dddddd;\n  text-align: left;\n  position: absolute;\n  width: 318px;\n  height: 85px;\n  top: 320px;\n  left: 2px;\n}\n.HkZaMAtKTG[data-v-d0b05636] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -51958,7 +51991,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#BklYVCFtTz[data-v-430771aa] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.BkzhLctaG[data-v-430771aa] {\n  background-color: #fff;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n.Bk7TI5Kaz[data-v-430771aa] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  font-size: 18px;\n  color: rgb(212, 195, 195);\n  position: absolute;\n  width: 293px;\n  height: 28px;\n  top: 20px;\n  left: 15px;\n}\n.HyyQPqKaM[data-v-430771aa] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  color: rgb(249, 243, 243);\n  position: absolute;\n  width: 301px;\n  height: 88px;\n  top: 73px;\n  left: 11px;\n}\n.BJBysD5KpM[data-v-430771aa] {\n  padding: 0 8px;\n}\n.ryLyjD5taG[data-v-430771aa] {\n  padding: 0 8px;\n}\n.SywyiPqYaG[data-v-430771aa] {\n  padding: 0 8px;\n}\n.r1Eksv5Kpz[data-v-430771aa] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.S1pyjw5t6z[data-v-430771aa] {\n  padding: 0 8px;\n}\n.HyAyjvqYpf[data-v-430771aa] {\n  padding: 0 8px;\n}\n.r1yg1jvqYTf[data-v-430771aa] {\n  padding: 0 8px;\n}\n.H1nksDqt6z[data-v-430771aa] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.SkkiwcKpf[data-v-430771aa] {\n  background-color: #ffffff;\n  border-collapse: collapse;\n  border: 1px solid #dddddd;\n  text-align: left;\n  position: absolute;\n  width: 315px;\n  height: 88px;\n  top: 321px;\n  left: 5px;\n}\n.Sk-tECFKTG[data-v-430771aa] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#BklYVCFtTz[data-v-430771aa]\n{\n    --mdc-theme-primary: #09233e;\n    --mdc-theme-secondary: #f44336;\n    --mdc-theme-background: #ffffff;\n    position: relative;\n    margin: auto;\n    background-color: #ffffff;\n    overflow: hidden;\n    width: 100%;\n    height: 100%;\n}\n.BkzhLctaG[data-v-430771aa]\n{\n    background-color: #fff;\n    position: absolute;\n    width: 325px;\n    height: 600px;\n    top: 0px;\n    left: 0px;\n}\n.Bk7TI5Kaz[data-v-430771aa]\n{\n    overflow: hidden;\n    text-overflow: ellipsis;\n    font-size: 18px;\n    color: rgb(212, 195, 195);\n    position: absolute;\n    width: 293px;\n    height: 28px;\n    top: 20px;\n    left: 15px;\n}\n.HyyQPqKaM[data-v-430771aa]\n{\n    overflow: hidden;\n    text-overflow: ellipsis;\n    color: rgb(249, 243, 243);\n    position: absolute;\n    width: 301px;\n    height: 88px;\n    top: 73px;\n    left: 11px;\n}\n.BJBysD5KpM[data-v-430771aa]\n{\n    padding: 0 8px;\n}\n.ryLyjD5taG[data-v-430771aa]\n{\n    padding: 0 8px;\n}\n.SywyiPqYaG[data-v-430771aa]\n{\n    padding: 0 8px;\n}\n.r1Eksv5Kpz[data-v-430771aa]\n{\n    background-color: rgba(0, 0, 0, 0.12);\n}\n.S1pyjw5t6z[data-v-430771aa]\n{\n    padding: 0 8px;\n}\n.HyAyjvqYpf[data-v-430771aa]\n{\n    padding: 0 8px;\n}\n.r1yg1jvqYTf[data-v-430771aa]\n{\n    padding: 0 8px;\n}\n.H1nksDqt6z[data-v-430771aa]\n{\n    background-color: rgba(0, 0, 0, 0.12);\n}\n.SkkiwcKpf[data-v-430771aa]\n{\n    background-color: #ffffff;\n    border-collapse: collapse;\n    border: 1px solid #dddddd;\n    text-align: left;\n    position: absolute;\n    width: 315px;\n    height: 88px;\n    top: 321px;\n    left: 5px;\n}\n.Sk-tECFKTG[data-v-430771aa]\n{\n    overflow: hidden;\n    border-color: rgba(0, 0, 0, 0.15);\n    border-style: solid;\n    border-width: 1px;\n    position: absolute;\n    width: 325px;\n    height: 600px;\n    top: 0px;\n    left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -52027,9 +52060,10 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-  name: 'klant-bekijken'
+    name: 'klant-bekijken'
 });
 
 /***/ }),
@@ -52237,7 +52271,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#HJuLCtF6z[data-v-cfb7093c] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.B18b_qFTG[data-v-cfb7093c] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 13px;\n  left: 64px;\n}\n.HynADcF6z[data-v-cfb7093c] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#mijnroutepage[data-v-cfb7093c]\n{\n    --mdc-theme-primary: #09233e;\n    --mdc-theme-secondary: #f44336;\n    --mdc-theme-background: #ffffff;\n    position: relative;\n    margin: auto;\n    background-color: #ffffff;\n    overflow: hidden;\n    width: 100%;\n    height: 100%;\n}\n.mijnroutetext[data-v-cfb7093c]\n{\n    overflow: hidden;\n    text-overflow: ellipsis;\n    position: relative;\n    width: 150px;\n    height: 25px;\n    top: 25px;\n    left: 25px;\n}\n.mijnroutecard[data-v-cfb7093c]\n{\n    overflow: hidden;\n    border-color: rgba(0, 0, 0, 0.15);\n    border-style: solid;\n    border-width: 1px;\n    position: absolute;\n    width: 325px;\n    height: 600px;\n    top: 0px;\n    left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -52260,7 +52294,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-  name: 'mijn-route'
+    name: 'mijn-route'
 });
 
 /***/ }),
@@ -52278,14 +52312,14 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { attrs: { id: "HJuLCtF6z" } }, [
-      _c("div", { staticClass: "HynADcF6z" }, [
-        _c("img", {
-          staticClass: "SyXgdcFaG",
-          attrs: { src: "/static/vuegg-fam.svg" }
-        }),
+    return _c("div", { attrs: { id: "mijnroutepage" } }, [
+      _c("div", { staticClass: "mijnroutecard" }, [
+        _c("h3", { staticClass: "mijnroutetext" }, [_vm._v("Mijn Route")]),
         _vm._v(" "),
-        _c("span", { staticClass: "B18b_qFTG" }, [_vm._v("Mijn Route")])
+        _c("img", {
+          staticClass: "routemap",
+          attrs: { src: "/static/routemap.png" }
+        })
       ])
     ])
   }
@@ -52385,7 +52419,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#S1AwCFKpz[data-v-c88b8b44] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.BJqtdcFaf[data-v-c88b8b44] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 22px;\n  left: 94px;\n}\n.HkJhucKTM[data-v-c88b8b44] {\n  overflow: hidden;\n  position: absolute;\n  width: 275px;\n  height: 182px;\n  top: 124px;\n  left: 25px;\n}\n.SJoddqKTG[data-v-c88b8b44] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#S1AwCFKpz[data-v-c88b8b44] {\n  --mdc-theme-primary: #09233e;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.BJqtdcFaf[data-v-c88b8b44] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 22px;\n  left: 94px;\n}\n.HkJhucKTM[data-v-c88b8b44] {\n  overflow: hidden;\n  position: absolute;\n  width: 275px;\n  height: 182px;\n  top: 124px;\n  left: 25px;\n}\n.SJoddqKTG[data-v-c88b8b44] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -52570,7 +52604,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#HktFCYYpf[data-v-7be00e11] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.S1jXYctaM[data-v-7be00e11] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 275px;\n  height: 25px;\n  top: 18px;\n  left: 10px;\n}\n.HJXHFqtpM[data-v-7be00e11] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 275px;\n  height: 54px;\n  top: 110px;\n  left: 10px;\n}\n.SJ3zYqK6f[data-v-7be00e11] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#HktFCYYpf[data-v-7be00e11] {\n  --mdc-theme-primary: #09233e;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.S1jXYctaM[data-v-7be00e11] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 275px;\n  height: 25px;\n  top: 18px;\n  left: 10px;\n}\n.HJXHFqtpM[data-v-7be00e11] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 275px;\n  height: 54px;\n  top: 110px;\n  left: 10px;\n}\n.SJ3zYqK6f[data-v-7be00e11] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -52715,7 +52749,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#B105AKtTG[data-v-678966fe] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.Hk3uKctaz[data-v-678966fe] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 30px;\n  top: 15px;\n  left: 64px;\n}\n.rJAvY5FpG[data-v-678966fe] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#mijngrafiekenpage[data-v-678966fe] {\n  --mdc-theme-primary: #09233e;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.mijngrafiekentext[data-v-678966fe] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: relative;\n  width: 150px;\n  height: 30px;\n  top: 15px;\n  left: 64px;\n}\n.mijngrafiekencard[data-v-678966fe] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: relative;\n  width: 325px;\n  height: 500px;\n  top: 25px;\n  left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -52726,6 +52760,10 @@ exports.push([module.i, "\n#B105AKtTG[data-v-678966fe] {\n  --mdc-theme-primary:
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+//
+//
+//
+//
 //
 //
 //
@@ -52760,23 +52798,25 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { attrs: { id: "B105AKtTG" } }, [
-      _c("div", { staticClass: "rJAvY5FpG" }, [
-        _c("span", { staticClass: "Hk3uKctaz" }, [_vm._v("Mijn Grafieken")]),
-        _vm._v(" "),
+    return _c("div", { attrs: { id: "mijngrafiekenpage" } }, [
+      _c("span", { staticClass: "mijngrafiekentext" }, [
+        _vm._v("Mijn Grafieken")
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "mijngrafiekencard" }, [
         _c("img", {
-          staticClass: "HJy9KqtaG",
-          attrs: { src: "/static/vuegg-fam.svg" }
+          staticClass: "graph1",
+          attrs: { src: "/static/graph1.png" }
         }),
         _vm._v(" "),
         _c("img", {
-          staticClass: "B1Zct5tTf",
-          attrs: { src: "/static/vuegg-fam.svg" }
+          staticClass: "graph2",
+          attrs: { src: "/static/barchart.png" }
         }),
         _vm._v(" "),
         _c("img", {
-          staticClass: "HyXctcKpG",
-          attrs: { src: "/static/vuegg-fam.svg" }
+          staticClass: "graph3",
+          attrs: { src: "/static/circlediagram.png" }
         })
       ])
     ])
@@ -52877,7 +52917,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#B1osAKY6M[data-v-14521d5d] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.SyuCFct6G[data-v-14521d5d] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 15px;\n  left: 55px;\n}\n.r1BvJc9Kpz[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.SyIPkqcKpM[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.rJPvyq5Y6G[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.HkEwy55KTG[data-v-14521d5d] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.r1TPkc9tpf[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.HJCw1cqtaf[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.SJJxvyc5Y6M[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.SknDJqqYpG[data-v-14521d5d] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.SJPyq5Y6f[data-v-14521d5d] {\n  background-color: #ffffff;\n  border-collapse: collapse;\n  border: 1px solid #dddddd;\n  text-align: left;\n  position: absolute;\n  width: 250px;\n  height: 100px;\n  top: 125px;\n  left: 25px;\n}\n.SJSQgc9tTM[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.rkUXxc9taG[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.H1DQgc5YTz[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.HJVQlqcKTz[data-v-14521d5d] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.ryTQgccYpz[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.Bk0Xlc9taz[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.ByJeQeq9Ypz[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.rJnXlcqKpf[data-v-14521d5d] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.ByXl5cYpM[data-v-14521d5d] {\n  background-color: #ffffff;\n  border-collapse: collapse;\n  border: 1px solid #dddddd;\n  text-align: left;\n  position: absolute;\n  width: 250px;\n  height: 100px;\n  top: 250px;\n  left: 25px;\n}\n.rkBNQcqKTM[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.HJ84QqqFaM[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.ByvVm9ctpG[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.BkENXc5FTG[data-v-14521d5d] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.BJaV79cYTz[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.HyAV7c5Faf[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.ByJgEm59tTz[data-v-14521d5d] {\n  padding: 0 8px;\n}\n.r12V79cY6G[data-v-14521d5d] {\n  background-color: rgba(0, 0, 0, 0.12);\n}\n.rkE75cFTG[data-v-14521d5d] {\n  background-color: #ffffff;\n  border-collapse: collapse;\n  border: 1px solid #dddddd;\n  text-align: left;\n  position: absolute;\n  width: 250px;\n  height: 100px;\n  top: 369px;\n  left: 24px;\n}\n.rkqatqKaM[data-v-14521d5d] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#mijncijferspage[data-v-14521d5d]\n{\n    --mdc-theme-primary: #09233e;\n    --mdc-theme-secondary: #f44336;\n    --mdc-theme-background: #ffffff;\n    position: relative;\n    margin: auto;\n    background-color: #ffffff;\n    overflow: hidden;\n    width: 100%;\n    height: 100%;\n}\n.mijncijferstext[data-v-14521d5d]\n{\n    overflow: hidden;\n    text-overflow: ellipsis;\n    position: relative;\n    width: 150px;\n    height: 25px;\n    top: 15px;\n    left: 55px;\n}\n.r1BvJc9Kpz[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.SyIPkqcKpM[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.rJPvyq5Y6G[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.HkEwy55KTG[data-v-14521d5d]\n{\n    background-color: rgba(0, 0, 0, 0.12);\n}\n.r1TPkc9tpf[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.HJCw1cqtaf[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.SJJxvyc5Y6M[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.SknDJqqYpG[data-v-14521d5d]\n{\n    background-color: rgba(0, 0, 0, 0.12);\n}\n.mijncijferstable1[data-v-14521d5d]\n{\n    background-color: #ffffff;\n    border-collapse: collapse;\n    border: 1px solid #dddddd;\n    text-align: left;\n    position: relative;\n    width: 250px;\n    height: 100px;\n    top: 125px;\n    left: 25px;\n}\n.SJSQgc9tTM[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.rkUXxc9taG[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.H1DQgc5YTz[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.HJVQlqcKTz[data-v-14521d5d]\n{\n    background-color: rgba(0, 0, 0, 0.12);\n}\n.ryTQgccYpz[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.Bk0Xlc9taz[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.ByJeQeq9Ypz[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.rJnXlcqKpf[data-v-14521d5d]\n{\n    background-color: rgba(0, 0, 0, 0.12);\n}\n.mijncijferstable2[data-v-14521d5d]\n{\n    background-color: #ffffff;\n    border-collapse: collapse;\n    border: 1px solid #dddddd;\n    text-align: left;\n    position: relative;\n    width: 250px;\n    height: 100px;\n    top: 250px;\n    left: 25px;\n}\n.rkBNQcqKTM[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.HJ84QqqFaM[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.ByvVm9ctpG[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.BkENXc5FTG[data-v-14521d5d]\n{\n    background-color: rgba(0, 0, 0, 0.12);\n}\n.BJaV79cYTz[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.HyAV7c5Faf[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.ByJgEm59tTz[data-v-14521d5d]\n{\n    padding: 0 8px;\n}\n.r12V79cY6G[data-v-14521d5d]\n{\n    background-color: rgba(0, 0, 0, 0.12);\n}\n.mijncijferstable3[data-v-14521d5d]\n{\n    background-color: #ffffff;\n    border-collapse: collapse;\n    border: 1px solid #dddddd;\n    text-align: left;\n    position: relative;\n    width: 250px;\n    height: 100px;\n    top: 369px;\n    left: 24px;\n}\n.mijncijferscard[data-v-14521d5d]\n{\n    overflow: hidden;\n    border-color: rgba(0, 0, 0, 0.15);\n    border-style: solid;\n    border-width: 1px;\n    position: absolute;\n    width: 325px;\n    height: 600px;\n    top: 0px;\n    left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -53000,7 +53040,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-  name: 'mijn-cijfers'
+    name: 'mijn-cijfers'
 });
 
 /***/ }),
@@ -53018,17 +53058,19 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { attrs: { id: "B1osAKY6M" } }, [
-      _c("div", { staticClass: "rkqatqKaM" }, [
-        _c("span", { staticClass: "SyuCFct6G" }, [_vm._v("Mijn Cijfers")]),
+    return _c("div", { attrs: { id: "mijncijferspage" } }, [
+      _c("div", { staticClass: "mijncijferscard" }, [
+        _c("span", { staticClass: "mijncijferstext" }, [
+          _vm._v("Mijn Cijfers")
+        ]),
         _vm._v(" "),
-        _c("table", { staticClass: "SJPyq5Y6f" }, [
-          _c("tr", { staticClass: "B1ewJ5cFTM" }, [
-            _c("th", { staticClass: "HyZDJc5YaM" }, [_vm._v("head 1")]),
+        _c("table", { staticClass: "mijncijferstable1" }, [
+          _c("tr", { staticClass: "tableheading1" }, [
+            _c("th", { staticClass: "tbl1head1" }, [_vm._v("head 1")]),
             _vm._v(" "),
-            _c("th", { staticClass: "Hkfvyc5KpM" }, [_vm._v("head 2")]),
+            _c("th", { staticClass: "tbl1head2" }, [_vm._v("head 2")]),
             _vm._v(" "),
-            _c("th", { staticClass: "HyXPk9qtTG" }, [_vm._v("head 3")])
+            _c("th", { staticClass: "tbl1head3" }, [_vm._v("head 3")])
           ]),
           _vm._v(" "),
           _c("tr", { staticClass: "HkEwy55KTG" }, [
@@ -53056,13 +53098,13 @@ var staticRenderFns = [
           ])
         ]),
         _vm._v(" "),
-        _c("table", { staticClass: "ByXl5cYpM" }, [
-          _c("tr", { staticClass: "H1emx59Fpz" }, [
-            _c("th", { staticClass: "H1-mgqcKaf" }, [_vm._v("head 1")]),
+        _c("table", { staticClass: "mijncijferstable2" }, [
+          _c("tr", { staticClass: "tableheading2" }, [
+            _c("th", { staticClass: "tbl2head1" }, [_vm._v("head 1")]),
             _vm._v(" "),
-            _c("th", { staticClass: "SkGXg55YTM" }, [_vm._v("head 2")]),
+            _c("th", { staticClass: "tbl2head2" }, [_vm._v("head 2")]),
             _vm._v(" "),
-            _c("th", { staticClass: "BJmmgq5KpM" }, [_vm._v("head 3")])
+            _c("th", { staticClass: "tbl2head3" }, [_vm._v("head 3")])
           ]),
           _vm._v(" "),
           _c("tr", { staticClass: "HJVQlqcKTz" }, [
@@ -53090,13 +53132,13 @@ var staticRenderFns = [
           ])
         ]),
         _vm._v(" "),
-        _c("table", { staticClass: "rkE75cFTG" }, [
-          _c("tr", { staticClass: "rylNm95YTM" }, [
-            _c("th", { staticClass: "ryZVmq5K6M" }, [_vm._v("head 1")]),
+        _c("table", { staticClass: "mijncijferstable3" }, [
+          _c("tr", { staticClass: "tableheading3" }, [
+            _c("th", { staticClass: "tbl3head1" }, [_vm._v("head 1")]),
             _vm._v(" "),
-            _c("th", { staticClass: "SJfNXqctTM" }, [_vm._v("head 2")]),
+            _c("th", { staticClass: "tbl3head2" }, [_vm._v("head 2")]),
             _vm._v(" "),
-            _c("th", { staticClass: "rkmN799K6M" }, [_vm._v("head 3")])
+            _c("th", { staticClass: "tbl3head3" }, [_vm._v("head 3")])
           ]),
           _vm._v(" "),
           _c("tr", { staticClass: "BkENXc5FTG" }, [
@@ -53222,7 +53264,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#SkU3RtFpM[data-v-7a0c3123] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.SJCZo9K6G[data-v-7a0c3123] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 20px;\n  left: 89px;\n}\n.rkIV5qY6M[data-v-7a0c3123] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#SkU3RtFpM[data-v-7a0c3123] {\n  --mdc-theme-primary: #09233e;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.SJCZo9K6G[data-v-7a0c3123] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 20px;\n  left: 89px;\n}\n.rkIV5qY6M[data-v-7a0c3123] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
 
 // exports
 
@@ -53421,7 +53463,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n#rkOpAKKTz[data-v-8eb3dd54] {\n  --mdc-theme-primary: #673ab7;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.r1LzhqKaM[data-v-8eb3dd54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 26px;\n  left: 71px;\n}\n.r10S2qKpM[data-v-8eb3dd54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 174px;\n  height: 66px;\n  top: 433px;\n  left: 62px;\n}\n.H1m925taG[data-v-8eb3dd54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 339px;\n  left: 72px;\n}\n.S1qZ2qFTz[data-v-8eb3dd54] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
+exports.push([module.i, "\n#rkOpAKKTz[data-v-8eb3dd54] {\n  --mdc-theme-primary: #09233e;\n  --mdc-theme-secondary: #f44336;\n  --mdc-theme-background: #ffffff;\n  position: relative;\n  margin: auto;\n  background-color: #ffffff;\n  overflow: hidden;\n  width: 100%;\n  height: 100%;\n}\n.r1LzhqKaM[data-v-8eb3dd54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 26px;\n  left: 71px;\n}\n.r10S2qKpM[data-v-8eb3dd54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 174px;\n  height: 66px;\n  top: 433px;\n  left: 62px;\n}\n.H1m925taG[data-v-8eb3dd54] {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  position: absolute;\n  width: 150px;\n  height: 25px;\n  top: 339px;\n  left: 72px;\n}\n.S1qZ2qFTz[data-v-8eb3dd54] {\n  overflow: hidden;\n  border-color: rgba(0, 0, 0, 0.15);\n  border-style: solid;\n  border-width: 1px;\n  position: absolute;\n  width: 325px;\n  height: 600px;\n  top: 0px;\n  left: 0px;\n}\n\n", ""]);
 
 // exports
 
